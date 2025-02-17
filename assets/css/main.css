@@ -1343,7 +1343,7 @@ section,
 
 .call-to-action:before {
   content: "";
-  background: color-mix(in srgb, var(--accent-color), transparent 50%);
+  background: color-mix(in srgb, var(--accent-color));
   position: absolute;
   inset: 0;
   z-index: 2;
