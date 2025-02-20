@@ -1,7 +1,7 @@
 /* Load the TT Autonomous font */
 @font-face {
   font-family: 'TT Autonomous';
-  src: url('assets/fonts/TT-Autonomous-Regular.ttf') format('truetype');
+  src: url('assets/TT-Autonomous-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
