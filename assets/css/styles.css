@@ -1,1 +1,15 @@
+/* Load the TT Autonomous font */
+@font-face {
+  font-family: 'TT Autonomous';
+  src: url('assets/fonts/TT-Autonomous-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
+/* Apply the font to the h1 element */
+h1 {
+  font-family: 'TT Autonomous', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+}
