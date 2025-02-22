@@ -11,18 +11,10 @@
 # Help: https://bootstrapmade.com/color-system/
 --------------------------------------------------------------*/
 /* Fonts */
-@font-face {
-  font-family: 'TT Autonomous';
-  src: url('../assets/TT Autonomous Trial Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
 :root {
-  --default-font: "Roboto", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --heading-font: "Raleway", sans-serif;
-  --nav-font: "Ubuntu", sans-serif;
-  --sitename-font: "TT Autonomous", sans-serif; /* New variable for sitename */
+  --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --heading-font: "Raleway",  sans-serif;
+  --nav-font: "Ubuntu",  sans-serif;
 }
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root { 
@@ -260,14 +252,6 @@ h6 {
   color: var(--heading-color);
 }
 
-/* Specific styling for .sitename */
-.header .sitename {
-  font-family: var(--sitename-font);
-  font-size: 30px; /* Matches the existing h1 size */
-  margin: 0;
-  font-weight: 700; /* Matches the existing h1 weight */
-  color: var(--heading-color); /* Matches the existing h1 color */
-}
 .header .btn-getstarted,
 .header .btn-getstarted:focus {
   color: var(--contrast-color);
