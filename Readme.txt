@@ -8,7 +8,7 @@ The site integrates modern web technologies and third-party libraries to provide
 
 Features
 
-Responsive Design: Optimized for desktops, tablets, and mobile devices using Bootstrap 5.
+Responsive Design: Optimized for desktops, tablets, and mobile devices.
 
 Educational Content: Offers courses for beginners, intermediate, and advanced traders.
 
@@ -22,6 +22,7 @@ Newsletter Signup: Form for subscription management.
 Contact
 
 For questions or collaboration opportunities, reach out to $$P Academy:
+
 Email: sspfxacademy@gmail.com
 Telegram: forextrex
 YouTube: @FOREX_RTMER
