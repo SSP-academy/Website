@@ -14,22 +14,17 @@ Educational Content: Offers courses for beginners, intermediate, and advanced tr
 
 Trading Resources: Includes downloadable indicators, expert advisors, tips, and recommended books.
 
-Interactive Elements: Features a hero section with video playback, a portfolio with filtering, and a testimonials slider.
-
 Social Integration: Links to YouTube, GitHub, Telegram, and email for community engagement.
 
-Newsletter Signup: Form integration with Formspree for subscription management.
+Newsletter Signup: Form for subscription management.
 
 
 Contact
 
 For questions or collaboration opportunities, reach out to $$P Academy:
-Email: sspfxacademy@gmail.com (mailto:sspfxacademy@gmail.com)
-
+Email: sspfxacademy@gmail.com
 Telegram: forextrex
-
 YouTube: @FOREX_RTMER
-
 GitHub: SSP-academy
 
 
