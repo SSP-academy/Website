@@ -4,7 +4,10 @@ Overview
 
 $$P Academy website, a responsive and feature-rich single-page application built with HTML, CSS, and JavaScript. The website showcases courses, trading indicators, top trades, and various resources to help users succeed in the Forex market.
 The site integrates modern web technologies and third-party libraries to provide an interactive user experience, including animations, image galleries, and dynamic content filtering.
+
+
 Features
+
 Responsive Design: Optimized for desktops, tablets, and mobile devices using Bootstrap 5.
 
 Educational Content: Offers courses for beginners, intermediate, and advanced traders.
